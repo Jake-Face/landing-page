@@ -7,6 +7,12 @@ body {
     flex-direction: column;
     }
 
+.header img {
+    max-width: 150px;
+    transform: rotate(90deg);
+    border-radius: 10px;
+}
+
 button {
     background: #3882f6;
     padding: 8px 16px;
